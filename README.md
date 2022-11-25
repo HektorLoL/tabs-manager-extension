@@ -14,7 +14,7 @@ You **can't** download this extension in the (chrome web store)[chrome.google.co
 1. Go to the **Extensions page** by entering `chrome://extensions`
 2. Enable **Developer Mode** by clicking the toggle switch next to Developer mode if not already toggled.
 3. Click the **Load unpacked** button and select the extension directory.
-[Helper image][./images/help1.png]
+![Helper image](./images/help1.png)
 
 ## ☕️ Using
 bla bla bla...
